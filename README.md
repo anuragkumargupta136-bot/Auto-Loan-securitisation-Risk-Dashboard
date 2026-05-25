@@ -3,6 +3,8 @@ Power BI dashboard for analyzing auto loan portfolio risk, delinquency trends, a
 
 ## Overview
 This Power BI dashboard analyzes auto loan portfolio performance, securitization risk, delinquency trends, and vehicle-wise loan distribution using interactive visualizations.
+# Dashboard previews
+![Dashboard Preview](Screenshot (1).png)
 
 ## Tools & Technologies
 - Power BI
